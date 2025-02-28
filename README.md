@@ -12,11 +12,11 @@
 <H3>Files in this repository</H3>
   <ul>
     <li>
-      Ontario Housing Supply App.msapp
+      OntarioHousingSupplyPowerApp
       <p>Main canvas app for launching the table maintenance app and Power BI dashboard</p>
     </li>
     <li>
-      Ontario Housing Project Maintenance App.msapp
+      OntarioHousingProjectMaintenanceApp.zip
       <p>Maintenance canvas app for maintaining table records</p>
     </li>
     <li>
