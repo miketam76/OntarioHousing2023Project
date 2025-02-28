@@ -37,4 +37,13 @@
       <p>Readme file</p>
     </li>
   </ul>
+  <H3>Screenshots</H3>
+  <H4>Main App page</H4>
+  <img src="https://github.com/user-attachments/assets/7fdf54cd-9b34-45a6-a91a-3a1ee799507b"/>
+  <H4>Table maintenance app</H4>
+  <img src="https://github.com/user-attachments/assets/71c4630a-6a16-489e-9c1e-0f4284fc7d97"/>
+  <H4>BI Report Dashboard page</H4>
+  <img src="https://github.com/user-attachments/assets/6bb0a739-8249-4ff1-9183-ebbdf4aa83d1"/>
+
+
 
